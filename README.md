@@ -1,5 +1,7 @@
+<img src="https://i.pinimg.com/originals/ef/d8/68/efd86898401b7d5c942ff1739c6d894a.gif" height="100" width="100" >
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
+<h2 display="in line" >Hey Everyone </h2>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
 </p>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
