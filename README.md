@@ -24,7 +24,9 @@ Let's Connect & Have a Chat:)
 
 📫 How to reach me farheenmalak648@gmail.com
 </p>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=farheenmalak&label=Profile%20Views&color=6&icon=5&pretty=false" />
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farheenmalak" alt="farheenmalak" /></a> </p>
 
