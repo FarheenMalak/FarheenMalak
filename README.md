@@ -24,27 +24,10 @@ Let's Connect & Have a Chat:)
 
 📫 How to reach me farheenmalak648@gmail.com
 </p>
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="php" width="45" height="45"/>
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="php" width="45" height="45"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png" alt="php" width="45" height="45"/>
-</p>
-<h1 align="center">Hi 👋, I'm Farheen Malak</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farheenmalak&label=Profile%20views&color=0e75b6&style=flat" alt="farheenmalak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farheenmalak" alt="farheenmalak" /></a> </p>
 
-- 🔭 I’m currently working on **KabajeesReplicaWebsite**
-
-- 📫 How to reach me **farheenmalak648@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
