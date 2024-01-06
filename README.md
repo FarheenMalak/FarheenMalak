@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sSynWm4bg0GSbruANoe6HGrcVg2Z-wJtCa6wnfAo3ScjuaPk5nUA9ZNRZ3T9Ibir978&usqp=CAU" >
+<img src="https://jojocdn.jojocms.org/what_is_a_banner_web_development.png" >
 <h2 align="center">
 Hey Everyone
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px" />
