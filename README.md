@@ -1,4 +1,4 @@
-<img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-3572729-3056529.mp4" >
+<img src="https://www.cooperativecomputing.com/blog/wp-content/uploads/2016/11/banner-web-development.png" >
 <h2 align="center">
 Hey Everyone
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px" />
