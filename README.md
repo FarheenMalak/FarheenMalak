@@ -1,112 +1,78 @@
-<div align="center">
+<div backgroundColor="black" >
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Farheen%20Malak&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=MERN%20stack%20developer%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0d0d,50:6e40c9,100:a371f7&text=Farheen%20Malak&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Building%20the%20Web,%20One%20Stack%20at%20a%20Time&descSize=16&descColor=c9b1ff&descAlignY=60&section=header" width="100%" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=FarheenMalak&label=Profile%20Views&color=a371f7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/FarheenMalak?label=Followers&style=for-the-badge&color=6e40c9&labelColor=0d0d0d" alt="Followers" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=FarheenMalak">
+    <img src="https://komarev.com/ghpvc/?username=FarheenMalak&label=Profile%20views&color=00FFFF&style=flat-square" alt="FarheenMalak's profile views" />
+  </a>
 </p>
 
-</div>
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/FarheenMalak">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarheenMalak&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="FarheenMalak's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=FarheenMalak&theme=dark&radius=10" alt="FarheenMalak's Activity Graph" />
+</p>
 
----
 
-## 🧬 About Me
+## 🛠️ Languages & Tools
 
-```javascript
-const farheen = {
-  name:       "Farheen Malak",
-  role:       "MERN Stack Developer",
-  location:   "Pakistan 🇵🇰",
-  stack:      ["MongoDB", "Express.js", "React", "Node.js"],
-  passions:   ["Clean UI", "Scalable APIs", "Open Source"],
-  contact:    "farheenmalak648@gmail.com",
-  available:  true
-};
-```
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
 
----
+</p>
 
-## 📊 GitHub Analytics
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-<div align="center">
+</p>
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarheenMalak&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d0d0d&title_color=a371f7&icon_color=6e40c9&text_color=c9b1ff" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarheenMalak&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d0d0d&title_color=a371f7&text_color=c9b1ff" />
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
 
-<br/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FarheenMalak&theme=tokyonight&hide_border=true&background=0d0d0d&ring=a371f7&fire=6e40c9&currStreakLabel=c9b1ff&sideLabels=c9b1ff&dates=888" alt="GitHub Streak" />
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
-<br/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarheenMalak&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=a371f7&line=6e40c9&point=ffffff&radius=10" width="96%" alt="Activity Graph" />
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-</div>
+</p>
 
----
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/posts/farheen-malak-626b29295">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/3706359077">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:farheenmalak648@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FarheenMalak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farheen-malak-626b29295)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3706359077)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farheenmalak648@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:a371f7,100:0d0d0d&section=footer" width="100%" />
-
-*✨ Crafted with passion by **Farheen Malak** — turning ideas into elegant digital experiences.*
 
 </div>
